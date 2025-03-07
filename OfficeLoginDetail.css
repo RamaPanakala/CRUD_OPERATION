@@ -1,0 +1,18 @@
+.table-container {
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .table-container .MuiTableCell-root {
+    font-size: 16px;
+  }
+  
+  .MuiIconButton-root {
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .MuiIconButton-root:hover {
+    transform: scale(1.1);
+  }
+  
